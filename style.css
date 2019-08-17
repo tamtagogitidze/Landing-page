@@ -1,0 +1,65 @@
+body{
+	background-color: #ffd5d5;
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+    text-align:center;
+    border:solid;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px purple;
+    padding: 30px 10px;
+}
+body img {
+	height: 572px;
+	width: 548px;
+}
+
+p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	color:#a72693;
+	margin: 10;
+}
+a{
+	color:#3a1f5d;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 20;
+}
+
+a:hover{
+	color: #f34573;
+}
+
+h3{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 25px;
+	color:#a72693;
+}
+.card-mine{
+	background-color: #ffd5d5;
+	text-align: center;
+	width: 90vw;
+	padding: 25px 10px;
+}
+.card-mine h2 {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 25px;
+	color:#a72693;
+}
+.card-mine p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	color:#a72693;
+}
+.card-mine img {
+	height: 100px;
+	width: 100px;
+}
+#banner-mine {
+	text-align:center;
+	width: 100vw;
+}
+.fab {
+	color:#3a1f5d;
+	font-size: 20px;
+}
+
